@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mowbray-R-V&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mowbray-R-V&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) -->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
